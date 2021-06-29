@@ -7,7 +7,7 @@ let blueranger;
 let yellowranger;
 let redranger;
 
-// Linked list data structure.
+// Linked list - a collection of items where each item points to the next one in the list.
 const linkedListOfRangers = {
 	head: {
 		value: 'Zack',
@@ -39,7 +39,7 @@ console.log('Linked list data structure: blueranger = ', blueranger);
 console.log('Linked list data structure: yellowranger = ', yellowranger);
 console.log('Linked list data structure: redranger = ', redranger);
 
-// Array data structure.
+// Array - has quick gets when searching for an index.
 const arrayOfRangers = ['Zack', 'Kimberly', 'Billy', 'Trini', 'Jason'];
 
 blackranger = arrayOfRangers[0];
