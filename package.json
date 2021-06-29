@@ -1,0 +1,12 @@
+{
+	"name": "mighty-morphin-data-structures",
+	"version": "1.0.0",
+	"description": "AllWebSD.com Season 6 demos on data structures with a mighty morphin twist.",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:marklreyes/mighty-morphin-data-structures.git"
+	},
+	"author": "Mark Reyes",
+	"license": "MIT",
+	"homepage": "https://allwebsd.com"
+}
