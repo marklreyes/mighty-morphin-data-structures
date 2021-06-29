@@ -1,7 +1,7 @@
 # Mighty Morphin Data Structures
 AllWebSD.com Season 6 demos on data structures with a mighty morphin twist.
 
-![Image of AllWebSD](https://www.allwebsd.com/images/logo-allwebsd.png)
+<a href="https://www.allwebsd.com" rel="AllWebSD.com">![Image of AllWebSD](https://www.allwebsd.com/images/logo-allwebsd.png)</a>
 
 # Episodes
 
