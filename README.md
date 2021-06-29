@@ -15,7 +15,7 @@ Extending on the idea of an array, Zordon assigns each ordinary teen their power
 Rita sends down Goldar and the Putties. It's time to queue up our plan of attack.
 
 ## Episode 04
-Things quickly change and we need to prioritize our queue.
+A queue turns into a priority queue as things quickly change when Rita throws her magic wand down from the moon.
 
 ## Episode 05
 We need DinoZord power now! Assembling MegaZord by way of a stack data structure.
