@@ -26,17 +26,17 @@ Install [Node.js](https://nodejs.org/en/download/).
 # Usage
 Open a terminal and navigate to the root of this project. Once there, type these commands:
 
-		# Install npm.
-        $ npm install
+	# Install npm.
+	$ npm install
 
-        # Execute each episode.
-        $ node episode01
-        $ node episode02
-        $ node episode03
-        $ node episode04
-        $ node episode05
+	# Execute each episode.
+	$ node episode01
+	$ node episode02
+	$ node episode03
+	$ node episode04
+	$ node episode05
 
 # Additional Resources
 This season was inspired by:
-[Grokking Algorithms](https://adit.io/posts/2016-05-25-Grokking-Algorithms-Is-Out.html)
-[Data Structures and Algorithms in JavaScript](https://egghead.io/courses/data-structures-and-algorithms-in-javascript)
+* [Grokking Algorithms](https://adit.io/posts/2016-05-25-Grokking-Algorithms-Is-Out.html)
+* [Data Structures and Algorithms in JavaScript](https://egghead.io/courses/data-structures-and-algorithms-in-javascript)
