@@ -1,7 +1,7 @@
 'use strict';
 
 // Considering the previous array, let's turn this into a hybrid data structure.
-const teamInArrayForm = [
+const arrayOfRangers = [
 	{
 		name: 'Zack',
 		power: 'Mastedon',
@@ -69,6 +69,6 @@ const zack = {
 
 let blackranger;
 
-console.log('Bulk tries to morph = ', itsMorphinTime(bulk, teamInArrayForm));
-console.log('Skull tries to morph = ', itsMorphinTime(skull, teamInArrayForm));
-console.log('Zack tries to morph = ', itsMorphinTime(zack, teamInArrayForm));
+console.log('Bulk tries to morph = ', itsMorphinTime(bulk, arrayOfRangers));
+console.log('Skull tries to morph = ', itsMorphinTime(skull, arrayOfRangers));
+console.log('Zack tries to morph = ', itsMorphinTime(zack, arrayOfRangers));
