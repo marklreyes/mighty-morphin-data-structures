@@ -9,7 +9,7 @@ const arrayOfRangers = [
 	},
 	{
 		name: 'Kimberly',
-		power: 'Pterydactyl',
+		power: 'Pterodactyl',
 		isMorphed: false
 	},
 	{
