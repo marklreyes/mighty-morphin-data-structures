@@ -4,7 +4,7 @@
 const arrayOfRangers = [
 	{
 		name: 'Zack',
-		power: 'Mastedon',
+		power: 'Mastodon',
 		isMorphed: false
 	},
 	{
@@ -50,20 +50,20 @@ function itsMorphinTime(teen, team) {
 // Bulk and Skull
 const bulk = {
 	name: 'Bulk',
-	power: 'Mastedon',
+	power: 'Mastodon',
 	isMorphed: false
 };
 
 const skull = {
 	name: 'Skull',
-	power: 'Mastedon',
+	power: 'Mastodon',
 	isMorphed: false
 };
 
 // Zack
 const zack = {
 	name: 'Zack',
-	power: 'Mastedon',
+	power: 'Mastodon',
 	isMorphed: false
 };
 
