@@ -30,11 +30,11 @@ Open a terminal and navigate to the root of this project. Once there, type these
 	$ npm install
 
 	# Execute each episode.
-	$ node episode01
-	$ node episode02
-	$ node episode03
-	$ node episode04
-	$ node episode05
+	$ node e1
+	$ node e2
+	$ node e3
+	$ node e4
+	$ node e5
 
 # Additional Resources
 This season was inspired by:
