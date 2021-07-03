@@ -67,8 +67,6 @@ const zack = {
 	isMorphed: false
 };
 
-let blackranger;
-
 console.log('Bulk tries to morph = ', itsMorphinTime(bulk, arrayOfRangers));
 console.log('Skull tries to morph = ', itsMorphinTime(skull, arrayOfRangers));
 console.log('Zack tries to morph = ', itsMorphinTime(zack, arrayOfRangers));
