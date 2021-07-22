@@ -5,16 +5,16 @@
 
 # Episodes
 
-## Episode 01
+## [Episode 01](https://youtu.be/ZKR7ZfJfTwA)
 Zordon and Alpha assemble the team considering two data structures - a linked list or an array.
 
-## Episode 02
+## [Episode 02](https://youtu.be/3CNubmgdFmc)
 Extending on the idea of an array, Zordon assigns each ordinary teen their power.
 
-## Episode 03
+## [Episode 03](https://youtu.be/w9KROYE0Jts)
 Rita sends down Goldar and the Putties. It's time to queue up our plan of attack.
 
-## Episode 04
+## [Episode 04](https://youtu.be/MQD6cJkKIYo)
 A queue turns into a priority queue as things quickly change when Rita throws her magic wand down from the moon.
 
 ## Episode 05
