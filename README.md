@@ -17,7 +17,7 @@ Rita sends down Goldar and the Putties. It's time to queue up our plan of attack
 ## [Episode 04](https://youtu.be/MQD6cJkKIYo)
 A queue turns into a priority queue as things quickly change when Rita throws her magic wand down from the moon.
 
-## Episode 05
+## [Episode 05](https://youtu.be/QyThH77KZ2k)
 We need DinoZord power now! Assembling MegaZord by way of a stack data structure.
 
 # Requirements
