@@ -3,6 +3,8 @@
 
 <a href="https://www.allwebsd.com" rel="AllWebSD.com">![Image of AllWebSD](https://www.allwebsd.com/images/logo-allwebsd.png)</a>
 
+The goal for this series was to deconstruct lessons learned from going head first into data structures. It’s my hope that I can translate a complex topic into an easy-going format and I did so by channeling my inner 10-year-old self. You see back in my day, I was a big fan of the original Mighty Morphin Power Rangers series. So I went ahead and took snapshots from that show and brushed it with some code.
+
 # Episodes
 
 ## [Episode 01](https://youtu.be/ZKR7ZfJfTwA)
