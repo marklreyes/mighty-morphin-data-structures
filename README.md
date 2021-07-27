@@ -8,19 +8,19 @@ The goal for this series was to deconstruct lessons learned from going head firs
 
 # Episodes
 
-## [Episode 01](https://youtu.be/ZKR7ZfJfTwA)
+## 📺 [Episode 01](https://youtu.be/ZKR7ZfJfTwA)
 Zordon and Alpha assemble the team considering two data structures - a linked list or an array.
 
-## [Episode 02](https://youtu.be/3CNubmgdFmc)
+## 📺 [Episode 02](https://youtu.be/3CNubmgdFmc)
 Extending on the idea of an array, Zordon assigns each ordinary teen their power.
 
-## [Episode 03](https://youtu.be/w9KROYE0Jts)
+## 📺 [Episode 03](https://youtu.be/w9KROYE0Jts)
 Rita sends down Goldar and the Putties. It's time to queue up our plan of attack.
 
-## [Episode 04](https://youtu.be/MQD6cJkKIYo)
+## 📺 [Episode 04](https://youtu.be/MQD6cJkKIYo)
 A queue turns into a priority queue as things quickly change when Rita throws her magic wand down from the moon.
 
-## [Episode 05](https://youtu.be/QyThH77KZ2k)
+## 📺 [Episode 05](https://youtu.be/QyThH77KZ2k)
 We need DinoZord power now! Assembling MegaZord by way of a stack data structure.
 
 # Requirements
@@ -43,3 +43,6 @@ Open a terminal and navigate to the root of this project. Once there, type these
 This season was inspired by:
 * [Grokking Algorithms](https://adit.io/posts/2016-05-25-Grokking-Algorithms-Is-Out.html)
 * [Data Structures and Algorithms in JavaScript](https://egghead.io/courses/data-structures-and-algorithms-in-javascript)
+
+# About Me
+Just a [web developer](https://www.marklreyes.com/about-me/) storytelling out of America's Finest City.
