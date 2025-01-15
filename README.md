@@ -1,6 +1,6 @@
 # Mighty Morphin Data Structures ⚡️
 
-<a href="https://www.allwebsd.com" rel="AllWebSD.com">![Image of AllWebSD](https://www.allwebsd.com/images/logo-allwebsd.png)</a>
+<a href="https://www.allwebsd.com" rel="AllWebSD.com">![Image of AllWebSD]([https://www.allwebsd.com/images/logo-allwebsd.png](https://www.marklreyes.com/wp-content/uploads/2020/12/allwebsd-1024x465.jpg))</a>
 
 [AllWebSD.com](https://www.allwebsd.com) Season 6 demos on data structures with a mighty morphin twist.
 
