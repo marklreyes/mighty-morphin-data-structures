@@ -1,6 +1,6 @@
 # Mighty Morphin Data Structures ⚡️
 
-<a href="https://www.allwebsd.com" rel="AllWebSD.com">![Image of AllWebSD](https://www.marklreyes.com/wp-content/uploads/2020/12/allwebsd-1024x465.jpg)</a>
+<a href="https://www.allwebsd.com" rel="AllWebSD.com">![Image of AllWebSD](https://github.com/marklreyes/mighty-morphin-data-structures/blob/main/1200x630_allwebsdmmpr%202.jpg)</a>
 
 [AllWebSD.com](https://www.allwebsd.com) Season 6 demos on data structures with a mighty morphin twist.
 
@@ -8,19 +8,19 @@ The goal for this series was to deconstruct lessons learned from going head firs
 
 # Episodes
 
-## 📺 [Episode 01](https://youtu.be/ZKR7ZfJfTwA)
+## 📺 [Episode 01](https://marklreyes.com/blog/mighty-morphin-data-structures-part-1/)
 Zordon and Alpha assemble the team considering two data structures - a linked list or an array.
 
-## 📺 [Episode 02](https://youtu.be/3CNubmgdFmc)
+## 📺 [Episode 02](https://marklreyes.com/blog/mighty-morphin-data-structures-part-2/)
 Extending on the idea of an array, Zordon assigns each ordinary teen their power.
 
-## 📺 [Episode 03](https://youtu.be/w9KROYE0Jts)
+## 📺 [Episode 03](https://marklreyes.com/blog/mighty-morphin-data-structures-part-3/)
 Rita sends down Goldar and the Putties. It's time to queue up our plan of attack.
 
-## 📺 [Episode 04](https://youtu.be/MQD6cJkKIYo)
+## 📺 [Episode 04](https://marklreyes.com/blog/mighty-morphin-data-structures-part-4/)
 We must prioritize the queue as things quickly change when Rita throws her magic wand down from the moon.
 
-## 📺 [Episode 05](https://youtu.be/QyThH77KZ2k)
+## 📺 [Episode 05](https://marklreyes.com/blog/mighty-morphin-data-structures-part-5/)
 We need DinoZord power now! Assembling MegaZord by way of a stack data structure.
 
 # Requirements
