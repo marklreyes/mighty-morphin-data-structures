@@ -1,8 +1,8 @@
 # Mighty Morphin Data Structures ⚡️
 
-<a href="https://www.allwebsd.com" rel="AllWebSD.com">![Image of AllWebSD](https://github.com/marklreyes/mighty-morphin-data-structures/blob/main/1200x630_allwebsdmmpr%202.jpg)</a>
+<a href="https://www.allwebsd.com/data-structures" rel="AllWebSD.com">![Image of AllWebSD](https://github.com/marklreyes/mighty-morphin-data-structures/blob/main/1200x630_allwebsdmmpr%202.jpg)</a>
 
-[AllWebSD.com](https://www.allwebsd.com) Season 6 demos on data structures with a mighty morphin twist.
+[AllWebSD.com](https://www.allwebsd.com/data-structures) Season 6 demos on data structures with a mighty morphin twist.
 
 The goal for this series was to deconstruct lessons learned from going head first into data structures. It’s my hope that I can translate a complex topic into an easy-going format and I did so by channeling my inner 10-year-old self. You see back in my day, I was a big fan of the original Mighty Morphin Power Rangers series. So I went ahead and took snapshots from that show and brushed it with some code.
 
@@ -45,4 +45,4 @@ This season was inspired by:
 * [Data Structures and Algorithms in JavaScript](https://egghead.io/courses/data-structures-and-algorithms-in-javascript)
 
 # About Me
-Just a [web developer](https://www.marklreyes.com/about-me/) storytelling out of America's Finest City.
+Just a [web developer](https://www.marklreyes.com/about) storytelling out of America's Finest City.
