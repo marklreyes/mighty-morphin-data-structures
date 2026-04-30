@@ -8,19 +8,19 @@ The goal for this series was to deconstruct lessons learned from going head firs
 
 # Episodes
 
-## 📺 [Episode 01](https://marklreyes.com/blog/mighty-morphin-data-structures-part-1/)
+## 📺 [Episode 01](https://allwebsd.com/data-structures#arrays)
 Zordon and Alpha assemble the team considering two data structures - a linked list or an array.
 
-## 📺 [Episode 02](https://marklreyes.com/blog/mighty-morphin-data-structures-part-2/)
+## 📺 [Episode 02](https://allwebsd.com/data-structures#objects)
 Extending on the idea of an array, Zordon assigns each ordinary teen their power.
 
-## 📺 [Episode 03](https://marklreyes.com/blog/mighty-morphin-data-structures-part-3/)
+## 📺 [Episode 03](https://allwebsd.com/data-structures#lists)
 Rita sends down Goldar and the Putties. It's time to queue up our plan of attack.
 
-## 📺 [Episode 04](https://marklreyes.com/blog/mighty-morphin-data-structures-part-4/)
+## 📺 [Episode 04](https://allwebsd.com/data-structures#trees)
 We must prioritize the queue as things quickly change when Rita throws her magic wand down from the moon.
 
-## 📺 [Episode 05](https://marklreyes.com/blog/mighty-morphin-data-structures-part-5/)
+## 📺 [Episode 05](https://allwebsd.com/data-structures#practical-examples)
 We need DinoZord power now! Assembling MegaZord by way of a stack data structure.
 
 # Requirements
@@ -45,4 +45,4 @@ This season was inspired by:
 * [Data Structures and Algorithms in JavaScript](https://egghead.io/courses/data-structures-and-algorithms-in-javascript)
 
 # About Me
-Just a [web developer](https://www.marklreyes.com/about) storytelling out of America's Finest City.
+Just a [web developer](https://allwebsd.com/about) storytelling out of America's Finest City.
